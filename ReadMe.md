@@ -1,7 +1,7 @@
 ofxCasioProjectorControl
 ===
 
-![addon image](doc/ofxaddons_thumbnail.png)
+![addon image](docs/ofxaddons_thumbnail.png)
 
 A openFrameworks addon for Casio Projectors.
 
